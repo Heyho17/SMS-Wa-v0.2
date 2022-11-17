@@ -54,4 +54,4 @@ sleep 3
 
 cd SMS-Wa-v0.2
 
-python 'Heyho17 .py'
+python jpg.py
